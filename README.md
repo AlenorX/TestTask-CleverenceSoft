@@ -13,3 +13,15 @@ ____________________________________________________________________________
 Решение:
 Я решил данную задачу ввиде программы Windows Form.
 ![MainPage](images/MainPageCompressString.png)
+
+1) Компрессия строки
+![Compression](images/CompressionFunction.png)
+
+2) Декомпрессия строки
+![Compression](images/DecompressionFunction.png)
+
+### Реализация
+В проекте есть файл "CompessLibrary.cs", в этой библеотеки есть статический класс "CompressClass" и два inner-метода "Compression" и "Decompression".
+Чтобы использовать эту библиотеку, нужно прописать "using CompessLibrary;"
+![ExampleCompress](images/ExampleCompress.png)
+![ExampleCompress](images/ExampleDecompress.png)

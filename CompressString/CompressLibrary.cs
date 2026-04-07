@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CompressLibrary
 {
-    public class CompressWork
+    public static class CompressClass
     {
         public static string Compression(string inputData)
         {

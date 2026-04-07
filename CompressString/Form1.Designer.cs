@@ -1,6 +1,6 @@
 ﻿namespace CompressString
 {
-    partial class Form1
+    partial class MainForm
     {
         /// <summary>
         ///  Required designer variable.
@@ -38,9 +38,10 @@
             // CompressFunction
             // 
             CompressFunction.AutoSize = true;
-            CompressFunction.Location = new Point(196, 220);
+            CompressFunction.Location = new Point(137, 132);
+            CompressFunction.Margin = new Padding(2);
             CompressFunction.Name = "CompressFunction";
-            CompressFunction.Size = new Size(136, 29);
+            CompressFunction.Size = new Size(93, 19);
             CompressFunction.TabIndex = 0;
             CompressFunction.TabStop = true;
             CompressFunction.Text = "Компрессия";
@@ -49,9 +50,10 @@
             // DecompressFunction
             // 
             DecompressFunction.AutoSize = true;
-            DecompressFunction.Location = new Point(415, 220);
+            DecompressFunction.Location = new Point(290, 132);
+            DecompressFunction.Margin = new Padding(2);
             DecompressFunction.Name = "DecompressFunction";
-            DecompressFunction.Size = new Size(156, 29);
+            DecompressFunction.Size = new Size(106, 19);
             DecompressFunction.TabIndex = 1;
             DecompressFunction.TabStop = true;
             DecompressFunction.Text = "Декомпрессия";
@@ -60,41 +62,48 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(312, 352);
+            label1.Location = new Point(159, 208);
+            label1.Margin = new Padding(2, 0, 2, 0);
             label1.Name = "label1";
-            label1.Size = new Size(59, 25);
+            label1.Size = new Size(202, 15);
             label1.TabIndex = 2;
-            label1.Text = "label1";
+            label1.Text = "Тут будут отображаться результаты";
             // 
             // textBox
             // 
-            textBox.Location = new Point(100, 153);
+            textBox.Location = new Point(70, 92);
+            textBox.Margin = new Padding(2);
             textBox.Name = "textBox";
-            textBox.Size = new Size(490, 31);
+            textBox.Size = new Size(344, 23);
             textBox.TabIndex = 3;
             // 
             // SendButton
             // 
-            SendButton.Location = new Point(607, 150);
+            SendButton.Location = new Point(425, 90);
+            SendButton.Margin = new Padding(2);
             SendButton.Name = "SendButton";
-            SendButton.Size = new Size(120, 34);
+            SendButton.Size = new Size(84, 20);
             SendButton.TabIndex = 4;
             SendButton.Text = "Обработать";
             SendButton.UseVisualStyleBackColor = true;
             SendButton.Click += SendButton_Click;
             // 
-            // Form1
+            // MainForm
             // 
-            AutoScaleDimensions = new SizeF(10F, 25F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(560, 270);
             Controls.Add(SendButton);
             Controls.Add(textBox);
             Controls.Add(label1);
             Controls.Add(DecompressFunction);
             Controls.Add(CompressFunction);
-            Name = "Form1";
-            Text = "Form1";
+            FormBorderStyle = FormBorderStyle.FixedSingle;
+            Margin = new Padding(2);
+            MaximizeBox = false;
+            MinimizeBox = false;
+            Name = "MainForm";
+            Text = "Compressor";
             ResumeLayout(false);
             PerformLayout();
         }
