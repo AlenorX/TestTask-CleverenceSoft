@@ -12,16 +12,16 @@
 ____________________________________________________________________________
 Решение:
 Я решил данную задачу ввиде программы Windows Form.
-![MainPage](images/MainPageCompressString.png)
+![MainPage](Sources/MainPageCompressString.png)
 
 1) Компрессия строки
-![Compression](images/CompressionFunction.png)
+![Compression](Sources/CompressionFunction.png)
 
 2) Декомпрессия строки
-![Compression](images/DecompressionFunction.png)
+![Compression](Sources/DecompressionFunction.png)
 
 ### Реализация
 В проекте есть файл "CompessLibrary.cs", в этой библеотеки есть статический класс "CompressClass" и два inner-метода "Compression" и "Decompression".
 Чтобы использовать эту библиотеку, нужно прописать "using CompessLibrary;"
-![ExampleCompress](images/ExampleCompress.png)
-![ExampleCompress](images/ExampleDecompress.png)
+![ExampleCompress](Sources/ExampleCompress.png)
+![ExampleCompress](Sources/ExampleDecompress.png)
