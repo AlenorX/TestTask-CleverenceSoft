@@ -22,6 +22,7 @@ ____________________________________________________________________________
 
 ### Реализация
 В проекте есть файл "CompessLibrary.cs", в этой библеотеки есть статический класс "CompressClass" и два inner-метода "Compression" и "Decompression".
+
 Чтобы использовать эту библиотеку, нужно прописать "using CompessLibrary;"
 ![ExampleCompress](Sources/ExampleCompress.png)
 ![ExampleCompress](Sources/ExampleDecompress.png)
