@@ -1,0 +1,16 @@
+C:\Users\Makovskiy\Documents\Projects\CompressString\bin\Debug\net8.0-windows\CompressString.exe
+C:\Users\Makovskiy\Documents\Projects\CompressString\bin\Debug\net8.0-windows\CompressString.deps.json
+C:\Users\Makovskiy\Documents\Projects\CompressString\bin\Debug\net8.0-windows\CompressString.runtimeconfig.json
+C:\Users\Makovskiy\Documents\Projects\CompressString\bin\Debug\net8.0-windows\CompressString.dll
+C:\Users\Makovskiy\Documents\Projects\CompressString\bin\Debug\net8.0-windows\CompressString.pdb
+C:\Users\Makovskiy\Documents\Projects\CompressString\obj\Debug\net8.0-windows\CompressString.Form1.resources
+C:\Users\Makovskiy\Documents\Projects\CompressString\obj\Debug\net8.0-windows\CompressString.csproj.GenerateResource.cache
+C:\Users\Makovskiy\Documents\Projects\CompressString\obj\Debug\net8.0-windows\CompressString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Makovskiy\Documents\Projects\CompressString\obj\Debug\net8.0-windows\CompressString.AssemblyInfoInputs.cache
+C:\Users\Makovskiy\Documents\Projects\CompressString\obj\Debug\net8.0-windows\CompressString.AssemblyInfo.cs
+C:\Users\Makovskiy\Documents\Projects\CompressString\obj\Debug\net8.0-windows\CompressString.csproj.CoreCompileInputs.cache
+C:\Users\Makovskiy\Documents\Projects\CompressString\obj\Debug\net8.0-windows\CompressString.dll
+C:\Users\Makovskiy\Documents\Projects\CompressString\obj\Debug\net8.0-windows\refint\CompressString.dll
+C:\Users\Makovskiy\Documents\Projects\CompressString\obj\Debug\net8.0-windows\CompressString.pdb
+C:\Users\Makovskiy\Documents\Projects\CompressString\obj\Debug\net8.0-windows\CompressString.genruntimeconfig.cache
+C:\Users\Makovskiy\Documents\Projects\CompressString\obj\Debug\net8.0-windows\ref\CompressString.dll
