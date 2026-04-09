@@ -1,0 +1,14 @@
+F:\Programming\StandardLogs\bin\Debug\net8.0\StandardLogs.exe
+F:\Programming\StandardLogs\bin\Debug\net8.0\StandardLogs.deps.json
+F:\Programming\StandardLogs\bin\Debug\net8.0\StandardLogs.runtimeconfig.json
+F:\Programming\StandardLogs\bin\Debug\net8.0\StandardLogs.dll
+F:\Programming\StandardLogs\bin\Debug\net8.0\StandardLogs.pdb
+F:\Programming\StandardLogs\obj\Debug\net8.0\StandardLogs.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programming\StandardLogs\obj\Debug\net8.0\StandardLogs.AssemblyInfoInputs.cache
+F:\Programming\StandardLogs\obj\Debug\net8.0\StandardLogs.AssemblyInfo.cs
+F:\Programming\StandardLogs\obj\Debug\net8.0\StandardLogs.csproj.CoreCompileInputs.cache
+F:\Programming\StandardLogs\obj\Debug\net8.0\StandardLogs.dll
+F:\Programming\StandardLogs\obj\Debug\net8.0\refint\StandardLogs.dll
+F:\Programming\StandardLogs\obj\Debug\net8.0\StandardLogs.pdb
+F:\Programming\StandardLogs\obj\Debug\net8.0\StandardLogs.genruntimeconfig.cache
+F:\Programming\StandardLogs\obj\Debug\net8.0\ref\StandardLogs.dll
